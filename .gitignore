@@ -1,0 +1,36 @@
+
+
+# Docker related
+docker-compose.yaml
+
+# БЕЗОПАСНОСТЬ - API КЛЮЧИ И КОНФИДЕНЦИАЛЬНЫЕ ДАННЫЕ
+/config.yaml
+/agents.yaml
+*.env
+
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+!sgr-deep-research-frontend/src/shared/lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
